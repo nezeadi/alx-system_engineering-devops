@@ -25,3 +25,5 @@
 ## script 12-file_type prints the type of file named
 
 ## script 13-sybolic_link creating a symbolic link to /bin/ls
+
+## script 14-copy_html copy all html files in working directory to parent directory. Only copying files not in parent and files newer than the versions in the parent of the working directory
