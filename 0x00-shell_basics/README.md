@@ -16,3 +16,6 @@
 
 ## script 8-firstdelete deletes the file betty from /tmp/my_first_directory
 
+## script 9-firstdirdeletion deletes the directory /tmp/my_first_directory
+
+
