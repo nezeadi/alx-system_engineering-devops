@@ -29,3 +29,7 @@
 ## script 14-copy_html copy all html files in working directory to parent directory. Only copying files not in parent and files newer than the versions in the parent of the working directory
 
 ## script 100-lets_move to copy all files that begin with an uppercase letter to /tmp/u
+
+## script 101-clean_emacs deletes all files in the current working directory that end with the character ~
+
+## script 102-tree creates the directory welcome/to/school
