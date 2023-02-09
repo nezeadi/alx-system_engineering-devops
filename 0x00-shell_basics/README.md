@@ -33,3 +33,7 @@
 ## script 101-clean_emacs deletes all files in the current working directory that end with the character ~
 
 ## script 102-tree creates the directory welcome/to/school
+
+## script 103-commas displays files in the directory separated by a comma and the directories with a /
+
+## school.mgc displays files which contain string SCHOOL
