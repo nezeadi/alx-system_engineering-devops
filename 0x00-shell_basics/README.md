@@ -20,3 +20,5 @@
 
 ## script 10-back changes working directory to previous one
 
+## script 11-lists long form display of contents of current, parent and /boot directory
+
