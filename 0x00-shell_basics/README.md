@@ -11,3 +11,5 @@
 # script 5-listfilesdigitonly diplays all files in the working directory with user and group ids displayed numerically
 
 # script 6-firstdirectory creates a directory named /my_first_directory in the /tmp folder
+
+# script 7-movethatfile moves the file betty from /tmp to /tmp/my_first_directory
