@@ -22,3 +22,4 @@
 
 ## script 11-lists long form display of contents of current, parent and /boot directory
 
+## script 12-file_type prints the type of file named
