@@ -27,3 +27,5 @@
 ## script 13-sybolic_link creating a symbolic link to /bin/ls
 
 ## script 14-copy_html copy all html files in working directory to parent directory. Only copying files not in parent and files newer than the versions in the parent of the working directory
+
+## script 100-lets_move to copy all files that begin with an uppercase letter to /tmp/u
