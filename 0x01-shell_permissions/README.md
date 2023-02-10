@@ -16,3 +16,6 @@
 
 ## Script 8-James_Bond adds read write and execute privilege to other users and no privilege to owner and owner group.
 
+## Script 9-John_Doe assigns -rwxr-xwx to file hello
+
+
