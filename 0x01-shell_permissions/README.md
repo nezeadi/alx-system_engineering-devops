@@ -11,3 +11,5 @@
 ## Script 5-executet adds execute permission to file "hello"
 
 ## Script 6-multiple_persons adds privilege execute to owner and group owner and read to other users
+
+## Script 7-everybody adds privilege execute to the owner, group owner and others.
