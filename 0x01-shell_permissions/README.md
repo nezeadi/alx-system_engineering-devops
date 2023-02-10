@@ -5,3 +5,7 @@
 ## Script 2-groups displays the groups the current user belongs to
 
 ## Script 3-new_owner chnges the owner of file hello to betty
+
+## Script 4-empty creates and empty file "hello"
+
+
