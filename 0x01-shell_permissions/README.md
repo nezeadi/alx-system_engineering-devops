@@ -9,3 +9,5 @@
 ## Script 4-empty creates and empty file "hello"
 
 ## Script 5-executet adds execute permission to file "hello"
+
+## Script 6-multiple_persons adds privilege execute to owner and group owner and read to other users
