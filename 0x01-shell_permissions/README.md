@@ -19,3 +19,11 @@
 ## Script 9-John_Doe assigns -rwxr-xwx to file hello
 
 ## Script 10-mirror_permissions assigns permissions of file hello to olleh
+
+## Script 11-directories_permissions assigns permissions to current directory and its subdirectory excluding files
+
+## Script 12-directory_permissions creates a directory my_dir with permissions 751
+
+## Script 13-Change_group will change the group owner to school for hello file
+
+## Script 
