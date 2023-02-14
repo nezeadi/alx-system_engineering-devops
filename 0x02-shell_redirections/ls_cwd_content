@@ -11,4 +11,4 @@ drwxrwxr-x 6 vagrant vagrant 4096 Feb 13 20:08 ..
 -rwxrw-r-- 1 vagrant vagrant   81 Feb 14 02:13 7-file
 -rwxrw-r-- 1 vagrant vagrant   36 Feb 14 02:20 8-cwd_state
 -rw-rw-r-- 1 vagrant vagrant  721 Feb 14 02:19 README.md
--rw-rw-r-- 1 vagrant vagrant    0 Feb 14 02:21 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant    0 Feb 14 02:25 ls_cwd_content

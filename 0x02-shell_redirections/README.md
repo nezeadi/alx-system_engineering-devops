@@ -11,3 +11,4 @@
 ##The 6-third_line diplays the 3rd line of the iacta file
 ## The script 7-file creates a file named '\*\'\''Best School\'\''\*$\?\*\*\*\*\*:)' with Best School in it as content
 ## The script 8-cwd_state writes the result of command ls -la into the file ls_cwd_content
+## The script 9-duplicate_last_line duplicates the last line of file iacta
